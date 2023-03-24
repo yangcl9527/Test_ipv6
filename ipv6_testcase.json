@@ -1,0 +1,342 @@
+[
+  {
+    "biaot": "未知开始缩略",
+    "bm" : "2001:db8::",
+    "country": "OT",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1000000000"
+  },
+  {
+    "biaot": "未知展开",
+    "bm" : "2001:db8:0:0:0:0:0:0",
+    "country": "OT",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1000000000"
+  },
+  {
+    "biaot": "未知中段",
+    "bm" : "2001:218:0:4000:ffff:ffff:ffff:ff",
+    "country": "OT",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1000000000"
+  },
+  {
+    "biaot": "未知结束",
+    "bm" : "2001:218:0:4000:ffff:ffff:ffff:ffff",
+    "country": "OT",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1000000000"
+  },
+
+
+  {
+    "biaot": "外国开始缩略",
+    "bm" : "2001:dc0:2000::",
+    "country": "AU",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1036000000"
+  },
+  {
+    "biaot": "外国展开",
+    "bm" : "2001:dc0:2000:0:0:0:0:0",
+    "country": "AU",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1036000000"
+  },
+  {
+    "biaot": "外国结束",
+    "bm" : "2001:dc0:bfff:ffff:ffff:ffff:ffff:ffff",
+    "country": "AU",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1036000000"
+  },
+  {
+    "biaot": "外国中段",
+    "bm" : "2001:dc0:bfff:ffff:ffff:ffff:ffff:f",
+    "country": "AU",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1036000000"
+  },
+
+
+  {
+    "biaot": "中国未分类地区开始缩略",
+    "bm" : "2001:da8:e824::",
+    "country": "CN",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1156000000"
+  },
+  {
+    "biaot": "中国未分类地区展开",
+    "bm" : "2001:da8:e824:0:0:0:0:0",
+    "country": "CN",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1156000000"
+  },
+  {
+    "biaot": "中国未分类地区结束",
+    "bm" : "2001:da8:eeff:ffff:ffff:ffff:ffff:ffff",
+    "country": "CN",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1156000000"
+  },
+  {
+    "biaot": "中国未分类地区中段",
+    "bm" : "2001:da8:eeff:ffff:ffff:ffff:ffff:f",
+    "country": "CN",
+    "province": "",
+    "city": "",
+    "district": "",
+    "areacode": "1156000000"
+  },
+
+
+  {
+    "biaot": "中国直辖市开始缩略",
+    "bm" : "2001:da8:ff3a::",
+    "country": "CN",
+    "province": "北京",
+    "city": "",
+    "district": "",
+    "areacode": "1156110000"
+  },
+  {
+    "biaot": "中国直辖市展开",
+    "bm" : "2001:da8:ff3a:0:0:0:0:0",
+    "country": "CN",
+    "province": "北京",
+    "city": "",
+    "district": "",
+    "areacode": "1156110000"
+  },
+  {
+    "biaot": "中国直辖市结束",
+    "bm" : "2001:da8:ff3a:ffff:ffff:ffff:ffff:ffff",
+    "country": "CN",
+    "province": "北京",
+    "city": "",
+    "district": "",
+    "areacode": "1156110000"
+  },
+  {
+    "biaot": "中国直辖市中段",
+    "bm" : "2001:da8:ff3a:ffff:ffff:ffff:ffff:f",
+    "country": "CN",
+    "province": "北京",
+    "city": "",
+    "district": "",
+    "areacode": "1156110000"
+  },
+
+
+  {
+    "biaot": "中国香港澳门开始缩略",
+    "bm" : "2001:dc7:ffc3::",
+    "country": "CN",
+    "province": "香港",
+    "city": "",
+    "district": "",
+    "areacode": "1344810000"
+  },
+  {
+    "biaot": "中国香港澳门展开",
+    "bm" : "2001:dc7:ffc3:0:0:0::0",
+    "country": "CN",
+    "province": "香港",
+    "city": "",
+    "district": "",
+    "areacode": "1344810000"
+  },
+  {
+    "biaot": "中国香港澳门展开",
+    "bm" : "2001:dc7:ffc4:ffff:ffff:ffff:ffff:ffff",
+    "country": "CN",
+    "province": "香港",
+    "city": "",
+    "district": "",
+    "areacode": "1344810000"
+  },
+  {
+    "biaot": "中国香港澳门中段",
+    "bm" : "2001:dc7:ffc4:ffff:ffff:ffff:ffff:ff",
+    "country": "CN",
+    "province": "香港",
+    "city": "",
+    "district": "",
+    "areacode": "1344810000"
+  },
+
+
+  {
+    "biaot": "中国台湾开始缩略",
+    "bm" : "2001:dd8:18::",
+    "country": "CN",
+    "province": "台湾",
+    "city": "台北市",
+    "district": "",
+    "areacode": "1158710400"
+  },
+  {
+    "biaot": "中国台湾展开",
+    "bm" : "2001:dd8:18:0:0:0:0:0",
+    "country": "CN",
+    "province": "台湾",
+    "city": "台北市",
+    "district": "",
+    "areacode": "1158710400"
+  },
+  {
+    "biaot": "中国台湾结束",
+    "bm" : "2001:de4:0:ffff:ffff:ffff:ffff:ffff",
+    "country": "CN",
+    "province": "台湾",
+    "city": "台北市",
+    "district": "",
+    "areacode": "1158710400"
+  },
+  {
+    "biaot": "中国台湾中段",
+    "bm" : "2001:de4:0:ffff:ffff:ffff:ffff:ff",
+    "country": "CN",
+    "province": "台湾",
+    "city": "台北市",
+    "district": "",
+    "areacode": "1158710400"
+  },
+
+
+  {
+    "biaot": "省份其他城市开始缩略",
+    "bm" : "2408:8220:1800::",
+    "country": "CN",
+    "province": "河南",
+    "city": "河南其它",
+    "district": "",
+    "areacode": "1156410000"
+  },
+  {
+    "biaot": "省份其他城市展开",
+    "bm" : "2408:8220:1800:0:0:0:0:0",
+    "country": "CN",
+    "province": "河南",
+    "city": "河南其它",
+    "district": "",
+    "areacode": "1156410000"
+  },
+  {
+    "biaot": "省份其他城市结束",
+    "bm" : "2408:8220:18ff:ffff:ffff:ffff:ffff:ffff",
+    "country": "CN",
+    "province": "河南",
+    "city": "河南其它",
+    "district": "",
+    "areacode": "1156410000"
+  },
+  {
+    "biaot": "省份其他城市中段",
+    "bm" : "2408:8220:18ff:ffff:ffff:ffff:ffff:ff",
+    "country": "CN",
+    "province": "河南",
+    "city": "河南其它",
+    "district": "",
+    "areacode": "1156410000"
+  },
+
+
+  {
+    "biaot": "省份一般城市开始缩略",
+    "bm" : "2408:8220:6a00::",
+    "country": "CN",
+    "province": "河南",
+    "city": "南阳",
+    "district": "",
+    "areacode": "1156411300"
+  },
+  {
+    "biaot": "省份一般城市展开",
+    "bm" : "2408:8220:6a00:0:0:0:0:0",
+    "country": "CN",
+    "province": "河南",
+    "city": "南阳",
+    "district": "",
+    "areacode": "1156411300"
+  },
+  {
+    "biaot": "省份一般城市结束",
+    "bm" : "2408:8220:76ff:ffff:ffff:ffff:ffff:ffff",
+    "country": "CN",
+    "province": "河南",
+    "city": "南阳",
+    "district": "",
+    "areacode": "1156411300"
+  },
+  {
+    "biaot": "省份一般城市中段",
+    "bm" : "2408:8220:76ff:ffff:ffff:ffff:ffff:f",
+    "country": "CN",
+    "province": "河南",
+    "city": "南阳",
+    "district": "",
+    "areacode": "1156411300"
+  },
+
+
+  {
+    "biaot": "少数民族自治州开始缩略",
+    "bm" : "2408:8234:9c00::",
+    "country": "CN",
+    "province": "吉林",
+    "city": "延边朝鲜族自治州",
+    "district": "",
+    "areacode": "1156222400"
+  },
+  {
+    "biaot": "少数民族自治州展开",
+    "bm" : "2408:8234:9c00:0:0:0:0:0",
+    "country": "CN",
+    "province": "吉林",
+    "city": "延边朝鲜族自治州",
+    "district": "",
+    "areacode": "1156222400"
+  },
+  {
+    "biaot": "少数民族自治州结束",
+    "bm" : "2408:8234:b3ff:ffff:ffff:ffff:ffff:ffff",
+    "country": "CN",
+    "province": "吉林",
+    "city": "延边朝鲜族自治州",
+    "district": "",
+    "areacode": "1156222400"
+  },
+  {
+    "biaot": "少数民族自治州开始缩略",
+    "bm" : "2408:8234:b3ff:ffff:ffff:ffff:ffff:ff",
+    "country": "CN",
+    "province": "吉林",
+    "city": "延边朝鲜族自治州",
+    "district": "",
+    "areacode": "1156222400"
+  }
+]
